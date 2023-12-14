@@ -1,0 +1,1 @@
+function divicao(i,o){return i/o}module.exports=divicao;
